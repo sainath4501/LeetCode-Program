@@ -14,7 +14,7 @@ public class Palindrom {
 
     public static void main(String[] args) {
     
-        System.out.println(palindrom(121));
+        System.out.println(palindrom(161));
         
     }
 }
